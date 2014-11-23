@@ -1,4 +1,4 @@
 gocurly
 =======
 
-ASCII colors package for Golang
+ANSI colors package for Golang
